@@ -1,0 +1,12 @@
+{
+    "name": "CRM",
+    "version": "1.0.0",
+    "description": "CRM Next",
+    "main": "index.js",
+    "scripts": {
+      "dev": "node index.js"
+    },
+    "keywords": [],
+    "author": "Thiago",
+    "license": "MIT"
+  }
